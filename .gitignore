@@ -1,7 +1,7 @@
 .agents
 .claude
 skills-*.json
-/.initia
+!.initia
 .DS_Store
 node_modules
 dist

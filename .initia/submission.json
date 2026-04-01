@@ -1,0 +1,12 @@
+{
+  "project_name": "MiniDyce",
+  "repo_url": "FILL_BEFORE_SUBMISSION",
+  "commit_sha": "FILL_BEFORE_SUBMISSION",
+  "rollup_chain_id": "FILL_AFTER_DEPLOY",
+  "deployed_address": "FILL_AFTER_DEPLOY",
+  "vm": "move",
+  "native_feature": "auto-signing",
+  "core_logic_path": "contracts/sources/house.move",
+  "native_feature_frontend_path": "frontend/src/App.jsx",
+  "demo_video_url": "FILL_BEFORE_SUBMISSION"
+}
