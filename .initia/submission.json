@@ -1,7 +1,7 @@
 {
   "project_name": "MiniDyce",
   "repo_url": "https://github.com/ajaythxkur/minidyce",
-  "commit_sha": "TODO",
+  "commit_sha": "d2d23348ed1f2d3fde83ae8b614568c6551aaff4",
   "rollup_chain_id": "local-rollup-1 ",
   "deployed_address": "init1p689cmd8yrgag24z6dq0kpqnlz7t6qyj2chfgs",
   "vm": "move",
