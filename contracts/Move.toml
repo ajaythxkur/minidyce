@@ -1,0 +1,15 @@
+[package]
+name = "minidyce"
+version = "0.0.1"
+
+[dependencies]
+InitiaStdlib = { local = "deps/movevm/precompile/modules/initia_stdlib" }
+MoveStdlib = { local = "deps/movevm/precompile/modules/move_stdlib" }
+MoveNursery = { local = "deps/movevm/precompile/modules/move_nursery" }
+
+[addresses]
+minidyce = "_"
+std = "0x1"
+
+[dev-addresses]
+minidyce = "0x42"

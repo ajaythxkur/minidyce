@@ -1,0 +1,9 @@
+.agents
+.claude
+skills-*.json
+/.initia
+.DS_Store
+node_modules
+dist
+contracts/build
+contracts/deps
