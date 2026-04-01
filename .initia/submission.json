@@ -1,12 +1,12 @@
 {
   "project_name": "MiniDyce",
-  "repo_url": "FILL_BEFORE_SUBMISSION",
-  "commit_sha": "FILL_BEFORE_SUBMISSION",
-  "rollup_chain_id": "FILL_AFTER_DEPLOY",
-  "deployed_address": "FILL_AFTER_DEPLOY",
+  "repo_url": "https://github.com/ajaythxkur/minidyce",
+  "commit_sha": "TODO",
+  "rollup_chain_id": "local-rollup-1 ",
+  "deployed_address": "init1p689cmd8yrgag24z6dq0kpqnlz7t6qyj2chfgs",
   "vm": "move",
   "native_feature": "auto-signing",
   "core_logic_path": "contracts/sources/house.move",
   "native_feature_frontend_path": "frontend/src/App.jsx",
-  "demo_video_url": "FILL_BEFORE_SUBMISSION"
+  "demo_video_url": "https://youtu.be/BHTh7oDA-yU"
 }
